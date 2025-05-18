@@ -4,3 +4,6 @@ def addition_sum(a,b):
 
 def sub(c,d):
     return a-b
+
+def multiply(e,f):
+    return e*f
