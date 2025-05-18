@@ -3,7 +3,7 @@ def addition_sum(a,b):
     return a+b
 
 def sub(c,d):
-    return c,d
+    return c-d
 
-def div(g,h):
-    return g/h
+def multiply(e,f):
+    return e*f
