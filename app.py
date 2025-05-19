@@ -8,4 +8,6 @@ def sub(c,d):
 def multiply(e,f):
     return e*f
 
+def div(i,j):
+    return i-j
 
